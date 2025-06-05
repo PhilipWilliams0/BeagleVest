@@ -1,12 +1,12 @@
 from export_to_excel import export_ticker_to_excel
-from main import load_tickers
+import pandas as pd
 
 def main():
-    ticker_df = load_tickers()
-    print(ticker_df)  # 👈 Confirm tickers loaded
+    print("\n📦 Running export_all.py...\n")
+    tickers = pd.read_csv("tickers.csv")
+    print(tickers)
 
-    for _, row in ticker_df.iterrows():
-        print(f"Exporting {row['ticker']} - {row['company']}")
+    for _, row in tickers.iterrows():
         export_ticker_to_excel(row["ticker"], row["company"])
 
 if __name__ == "__main__":

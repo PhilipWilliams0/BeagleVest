@@ -1,4 +1,63 @@
 ticker,company
 AAPL,Apple Inc.
 MSFT,Microsoft Corp.
-
+ELF,e.l.f. Beauty
+SMCI,Super Micro Computer
+CELH,Celsius Holdings
+INSP,Inspire Medical Systems
+AXON,Axon Enterprise
+TMDX,TransMedics Group
+NVCR,NovoCure Limited
+DUOL,Duolingo
+MODG,Topgolf Callaway Brands Corp
+RXRX,Recursion Pharmaceuticals
+AMZN,Amazon.com Inc.
+GOOGL,Alphabet Inc.
+META,Meta Platforms Inc.
+TSLA,Tesla Inc.
+NVDA,NVIDIA Corp.
+BRK-B,Berkshire Hathaway Inc.
+UNH,UnitedHealth Group Inc.
+JNJ,Johnson & Johnson
+V,Visa Inc.
+PG,Procter & Gamble Co.
+HD,Home Depot Inc.
+MA,Mastercard Inc.
+XOM,Exxon Mobil Corp.
+CVX,Chevron Corp.
+LLY,Eli Lilly and Co.
+MRK,Merck & Co. Inc.
+PEP,PepsiCo Inc.
+ABBV,AbbVie Inc.
+AVGO,Broadcom Inc.
+COST,Costco Wholesale Corp.
+MCD,McDonald's Corp.
+KO,Coca-Cola Co.
+ADBE,Adobe Inc.
+ORCL,Oracle Corp.
+TMO,Thermo Fisher Scientific Inc.
+CSCO,Cisco Systems Inc.
+INTC,Intel Corp.
+WMT,Walmart Inc.
+NKE,Nike Inc.
+ABT,Abbott Laboratories
+TXN,Texas Instruments Inc.
+AMGN,Amgen Inc.
+CRM,Salesforce Inc.
+DHR,Danaher Corp.
+LIN,Linde plc
+UPS,United Parcel Service Inc.
+MS,Morgan Stanley
+GS,Goldman Sachs Group Inc.
+AXP,American Express Co.
+BKNG,Booking Holdings Inc.
+BLK,BlackRock Inc.
+PFE,Pfizer Inc.
+AMD,Advanced Micro Devices Inc.
+BA,Boeing Co.
+GE,General Electric Co.
+CAT,Caterpillar Inc.
+SPGI,S&P Global Inc.
+ISRG,Intuitive Surgical Inc.
+CI,Cigna Group
+ADP,Automatic Data Processing Inc.
