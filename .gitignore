@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .env/
-.exports/
+.market_data_project\exports/
